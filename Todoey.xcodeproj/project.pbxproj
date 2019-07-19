@@ -61,7 +61,6 @@
 				E9EB471322DFD524007CBB40 /* Data Model */,
 				E9EB471522DFD556007CBB40 /* Storyboards */,
 				E9B091C622B870D300FAF219 /* Assets.xcassets */,
-				E9B091C822B870D300FAF219 /* LaunchScreen.storyboard */,
 				E9B091CB22B870D300FAF219 /* Info.plist */,
 			);
 			path = Todoey;
@@ -86,6 +85,7 @@
 		E9EB471522DFD556007CBB40 /* Storyboards */ = {
 			isa = PBXGroup;
 			children = (
+				E9B091C822B870D300FAF219 /* LaunchScreen.storyboard */,
 				E9B091C322B870D300FAF219 /* Main.storyboard */,
 			);
 			name = Storyboards;
